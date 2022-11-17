@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Eternity/static/css/main.073c9b0a.css",
-    "main.js": "/Eternity/static/js/main.85e1069b.js",
+    "main.css": "/Eternity/static/css/main.9cda1bd8.css",
+    "main.js": "/Eternity/static/js/main.1d6f9a3b.js",
     "static/js/787.28cb0dcd.chunk.js": "/Eternity/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/Eternity/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Eternity/index.html",
-    "main.073c9b0a.css.map": "/Eternity/static/css/main.073c9b0a.css.map",
-    "main.85e1069b.js.map": "/Eternity/static/js/main.85e1069b.js.map",
+    "main.9cda1bd8.css.map": "/Eternity/static/css/main.9cda1bd8.css.map",
+    "main.1d6f9a3b.js.map": "/Eternity/static/js/main.1d6f9a3b.js.map",
     "787.28cb0dcd.chunk.js.map": "/Eternity/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.85e1069b.js"
+    "static/css/main.9cda1bd8.css",
+    "static/js/main.1d6f9a3b.js"
   ]
 }
