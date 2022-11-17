@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/Eternity/static/css/main.9cda1bd8.css",
-    "main.js": "/Eternity/static/js/main.ded5135d.js",
+    "main.js": "/Eternity/static/js/main.827b2406.js",
     "static/js/787.28cb0dcd.chunk.js": "/Eternity/static/js/787.28cb0dcd.chunk.js",
+    "static/media/video-3.mp4": "/Eternity/static/media/video-3.1b8576dda5158d14531b.mp4",
     "index.html": "/Eternity/index.html",
     "main.9cda1bd8.css.map": "/Eternity/static/css/main.9cda1bd8.css.map",
-    "main.ded5135d.js.map": "/Eternity/static/js/main.ded5135d.js.map",
+    "main.827b2406.js.map": "/Eternity/static/js/main.827b2406.js.map",
     "787.28cb0dcd.chunk.js.map": "/Eternity/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cda1bd8.css",
-    "static/js/main.ded5135d.js"
+    "static/js/main.827b2406.js"
   ]
 }
