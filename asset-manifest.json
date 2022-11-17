@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/Eternity/static/css/main.9cda1bd8.css",
-    "main.js": "/Eternity/static/js/main.2b2fd578.js",
+    "main.js": "/Eternity/static/js/main.ecb3c4d1.js",
     "static/js/787.28cb0dcd.chunk.js": "/Eternity/static/js/787.28cb0dcd.chunk.js",
     "static/media/video-3.mp4": "/Eternity/static/media/video-3.1b8576dda5158d14531b.mp4",
+    "static/media/image-1.jpg": "/Eternity/static/media/image-1.6aca8640f06d4a0032a4.jpg",
+    "static/media/image-5.jpg": "/Eternity/static/media/image-5.713a033ef790b1961c83.jpg",
     "static/media/doctor7.jpg": "/Eternity/static/media/doctor7.35084f002e1c78307b80.jpg",
+    "static/media/doctor5.jpg": "/Eternity/static/media/doctor5.2853f7291f7065a3b88f.jpg",
+    "static/media/doctor3.jpg": "/Eternity/static/media/doctor3.11f676b440b25589c4d8.jpg",
+    "static/media/doctor4.jpg": "/Eternity/static/media/doctor4.ce0d108bd28e79736d60.jpg",
+    "static/media/doctor2.jpg": "/Eternity/static/media/doctor2.dc31416be5bea8d4119c.jpg",
+    "static/media/doctor6.jpg": "/Eternity/static/media/doctor6.8e121dba1ea215ee3b05.jpg",
     "index.html": "/Eternity/index.html",
     "main.9cda1bd8.css.map": "/Eternity/static/css/main.9cda1bd8.css.map",
-    "main.2b2fd578.js.map": "/Eternity/static/js/main.2b2fd578.js.map",
+    "main.ecb3c4d1.js.map": "/Eternity/static/js/main.ecb3c4d1.js.map",
     "787.28cb0dcd.chunk.js.map": "/Eternity/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cda1bd8.css",
-    "static/js/main.2b2fd578.js"
+    "static/js/main.ecb3c4d1.js"
   ]
 }
